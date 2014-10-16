@@ -5,9 +5,13 @@
 url: http://natmlt.github.io
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Moriah Trostler
 simple_search: https://www.google.com/search
-description:
+description: This is just another personal blog that is hardly ever updated.  Every now and then I will get a wild hair or do some project that I feel the need to document.
+
+#This is for the theme OctoFound
+fixed_navigation: true
+
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
