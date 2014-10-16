@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Moriah's Web"
-subtitle: "Documenting My Hobbies"
-comments: true
-sharing: true
+title: "OctoFound"
+subtitle: "A Foundation-5 Theme for Octopress"
+comments: false
+sharing: false
 footer: true
 body_id: "main_page"
-sidebar_left: true
+sidebar: true
 ---
-This is just another, rarely update, personal blog! Originally it was created with the high hopes of weekly posts documenting all the super cool projects I planned on doing.  I wanted to provide something useful for other newbies with similar interests.  I thought maybe I could provide enough information to help someone create something similar without having to do tons of research and make a bunch of mistakes because I already went through all that pain for them.  The primary focus being my work with the open-source telephony platform by <a href="http://digium.com/en/">Digium</a> called <a href="http://asterisk.org/">Asterisk</a>.  When I started this blog back in 2007 I had been working with Asterisk for 3 years and had just purchased a very small company that provided hosted PBX and VOIP trunking services.  My partner in crime (aka Carlos) had found the company "Starnetworks, LLC" originally through a list of providers on the site <a href="http://www.voip-info.org/">http://www.voip-info.org</a> which was, at the time, the best documentation that existed for Asterisk.  There was essentially no information about Starnetworks except for their pitiful website which consisted of a single PDF file.  Sometime in the last quarter of 2004 Carlos and myself had been looking for a VOIP provider for the companies we had been working for at the time.  We recently both upgraded our company's phone systems to a new product from another little startup called "Fonality" that was a PBX running Asterisk 0.7. 
+Welcome to OctoFound! OctoFound is a <strong>responsive</strong> and <strong>highly customizable</strong> Foundation-5 theme for Octopress. Browse the theme using the navigation above, or read about the features below. Scroll down for notes on installation.
 
 <h3>Theme Features:</h3>
 
