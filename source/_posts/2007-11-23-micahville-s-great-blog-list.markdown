@@ -1,0 +1,18 @@
+---
+layout: post
+title: Micahville’s great Blog List
+published: 1
+comments: true
+sharing: true
+footer: true
+categories:
+  - Web
+  - Tech
+---
+<p>Micahville has a great list of blogs that was dugg quite a bit
+recently.&nbsp; I found it to be helpful as I have read a lot of these blogs
+at times but had never bookmarked any of them.&nbsp; This was a great way
+for me to finally bookmark them and to learn about a bunch more.</p>
+
+<p><a href="http://www.micahville.com/2007/07/08/69-tech-blogs-that-dont-suck/">Read More</a> | <a href="http://digg.com/tech_news/69_Tech_Blogs_That_Don_t_Suck">Digg Story</a></p>
+

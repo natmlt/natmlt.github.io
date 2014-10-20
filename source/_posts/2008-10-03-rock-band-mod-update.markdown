@@ -1,0 +1,23 @@
+---
+layout: post
+title: Rock Band Mod Update
+published: 1
+comments: true
+sharing: true
+footer: true
+categories: Games
+---
+<p>10-3-08</p>
+<p>Just a quick update.&nbsp; I recently changed up my drum set a bit.&nbsp; I got myself a used Roland PD-120 to be my snare and a PD-80 for the high hat.&nbsp; I though the mesh pads would be even quieter and enhance my Rock Band experience.&nbsp; They really are not much quieter but the sound is different then the rubber thud.&nbsp; They actually kind of sound like a real drum that is just very muted.&nbsp; Another reason for getting the PD-120 was because it is bigger and I can use a snare stand with it.&nbsp; Since adding the double bass pedal my left knee would hit on the bar the Yamaha had for holding the snare.&nbsp; Now with snare on the stand that problem is gone.</p>
+
+<p>I tried to make a video since that seems to be thing to do.&nbsp; It turned out pretty boring but if you are interested be my guest:</p>
+
+
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/I7sru_YQpeg&amp;hl=en&amp;fs=1" /><param name="allowFullScreen" value="true" /><embed width="425" height="344" src="http://www.youtube.com/v/I7sru_YQpeg&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object>
+
+</p>
+
+<p>
+
+One neat thing I discovered was using practice mode to play the full song but play the sound of the drums out the actual drum brain.&nbsp; It really surprised me how forgiving Rock Band is with your timing.&nbsp; Once you actually listen to yourself playing you can hear how off you can be and still have Rock Band trigger a hit.&nbsp; I really recommend if you have speakers hooked up to your drum brain trying practice mode.&nbsp; It is a cool way to get drumless tracks to play along with and improve your drum skills.</p>
+
