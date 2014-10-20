@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Moriah's Web]]></title>
+  <link href="http://planetpony.com/atom.xml" rel="self"/>
+  <link href="http://planetpony.com/"/>
+  <updated>2014-10-19T18:59:35-07:00</updated>
+  <id>http://planetpony.com/</id>
+  <author>
+    <name><![CDATA[Moriah Trostler]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Finally Moved From Typepad to Github Pages]]></title>
+    <link href="http://planetpony.com/blog/2014/10/17/finally-moved-from-typepad-to-github-pages/"/>
+    <updated>2014-10-17T16:26:21-07:00</updated>
+    <id>http://planetpony.com/blog/2014/10/17/finally-moved-from-typepad-to-github-pages</id>
+    <content type="html"><![CDATA[<p>I have made multiple attempts in the past couple of years to migrate my blog off of Typepad to something free since I hardly ever update it and rarely get much more then one hit a day.  The complication with migrating is that Typepad doesn&rsquo;t make it very easy to backup your data in a format easily transferral to anything else.  The biggest problem being the images/media.  They allow you to export all the text but there is no way to grab the media without having to go to each post and manually download each individual item.  Every time I tried moving my blog I would fight and fight to get my images moved and the links updated but it always ended up taking too much time and I would inevitably have to stop working on it to do real work.  Well, I finally got it about finished and am just working out the bugs now.  Since I really love using Git and GitHub maybe I will be inspired to post more than once or twice every few years. :-)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rock Band Mod Update]]></title>
+    <link href="http://planetpony.com/blog/2008/10/03/rock-band-mod-update/"/>
+    <updated>2008-10-03T00:00:00-07:00</updated>
+    <id>http://planetpony.com/blog/2008/10/03/rock-band-mod-update</id>
+    <content type="html"><![CDATA[<p>10-3-08</p>
+
+
+<p>Just a quick update.&nbsp; I recently changed up my drum set a bit.&nbsp; I got myself a used Roland PD-120 to be my snare and a PD-80 for the high hat.&nbsp; I though the mesh pads would be even quieter and enhance my Rock Band experience.&nbsp; They really are not much quieter but the sound is different then the rubber thud.&nbsp; They actually kind of sound like a real drum that is just very muted.&nbsp; Another reason for getting the PD-120 was because it is bigger and I can use a snare stand with it.&nbsp; Since adding the double bass pedal my left knee would hit on the bar the Yamaha had for holding the snare.&nbsp; Now with snare on the stand that problem is gone.</p>
+
+
+
+
+<p>I tried to make a video since that seems to be thing to do.&nbsp; It turned out pretty boring but if you are interested be my guest:</p>
+
+
+
+
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/I7sru_YQpeg&amp;hl=en&amp;fs=1" /><param name="allowFullScreen" value="true" /><embed width="425" height="344" src="http://www.youtube.com/v/I7sru_YQpeg&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object>
+
+</p>
+
+
+
+
+<p>
+
+One neat thing I discovered was using practice mode to play the full song but play the sound of the drums out the actual drum brain.&nbsp; It really surprised me how forgiving Rock Band is with your timing.&nbsp; Once you actually listen to yourself playing you can hear how off you can be and still have Rock Band trigger a hit.&nbsp; I really recommend if you have speakers hooked up to your drum brain trying practice mode.&nbsp; It is a cool way to get drumless tracks to play along with and improve your drum skills.</p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rock Band Uber Mod!]]></title>
+    <link href="http://planetpony.com/blog/2008/05/05/rock-band-uber-mod-/"/>
+    <updated>2008-05-05T00:00:00-07:00</updated>
+    <id>http://planetpony.com/blog/2008/05/05/rock-band-uber-mod-</id>
+    <content type="html"><![CDATA[<p>After completing my pedal mod I kept reading about what other improvements could be made.&nbsp; I ended up deciding that a full blown electronic drum kit was required.&nbsp; After much deliberation I talked myself into dropping $700 on a Yamaha DTXplorer.&nbsp; Thanks to Flash for distilling 100+ pages of a <a href="http://www.rockband.com/forums/showthread.php?t=20420&amp;page=102">forum</a> thread into <a href="http://theflashspeaks.wordpress.com/2008/02/03/playing-rock-band-with-a-yamaha-dtxplorer-how-to/">this</a> site I was able to complete the mod.&nbsp; </p>
+
+
+
+
+<p>Instead of soldering to the almost invisible points on the back of the RB circuit board I soldered directly to the button pads.&nbsp; Being careful to keep the wires as far to the outside and a flat as possible kept the buttons working like usual.&nbsp; I also used the USB power to run the MSA to avoid having another power brick.</p>
+
+
+
+
+<p>I think the controller box turned out pretty well.&nbsp; Playing on the real
+drum pads made a huge difference in response.&nbsp; The base pedal being
+piezo instead of a reed relay makes it require much less movement to
+trigger.&nbsp; I have been trying to play the songs using the proper cymbals
+and toms with required me to go back to medium difficulty for a couple
+of days.&nbsp; I am back to doing mostly hard now with a couple of songs
+completed on expert.&nbsp; Overall it has been a very cool experience.&nbsp; It
+is my first major hack and now that it is done I have to find something else
+to hack!</p>
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+<p><a href="images/small/rb_yahama.jpg" onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"></a><a onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/rb_yahama_2.jpg"><img width="600" height="450" border="0" src="images/orig/rb_yahama_2.jpg" title="Rb_yahama_2" alt="Rb_yahama_2" style="margin: 0px 5px 5px 0px;" /></a>
+<a onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/rb_blackbox.jpg"><img border="0" src="images/orig/rb_blackbox.jpg" title="Rb_blackbox" alt="Rb_blackbox" style="margin: 0px 5px 5px 0px; width: 600px; height: 450px;" /></a> </p>
+
+
+
+
+<p><a href="images/small/rb_yahama.jpg" onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><br /></a>
+</p>
+
+
+
+
+<p>UPDATE - 5/22/05</p>
+
+
+
+
+<p>Now that it has been a few week my skills are to back to where they were from before the hack.&nbsp; Playing on a real set is so much better.&nbsp; I really like that I have the ability to use the right pad for the right sound.&nbsp; I saw that Guitar Hero is going to have cymbals and I think Rock Band should have done that to start with.&nbsp; I wish I could say I was rocking on expert all the time but I just cant get my kick speed up.&nbsp; I might just have to add a double bass pedal. </p>
+
+
+
+
+<p>I finally decided to open the box and post pictures.<br /><a onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/pict2284_2.jpg"><img width="600" height="450" border="0" src="images/orig/pict2284_2.jpg" title="Pict2284_2" alt="Pict2284_2" style="margin: 0px 5px 5px 0px;" /></a></p>
+
+
+<p>
+I bought the MSA disassembled.&nbsp; That was a lot of soldering!
+</p>
+
+
+
+
+<p><a href="images/small/pict2281.jpg" onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img width="600" height="450" border="0" alt="Pict2281" title="Pict2281" src="images/orig/pict2281.jpg" style="margin: 0px 5px 5px 0px;" /></a>
+</p>
+
+
+<p>I could not get the wire to stick to the points that Flash listed on his site so I decided to use the buttons.&nbsp; The buttons still work and I can use the drum pads for navigation.<br />
+</p>
+
+
+<p><a href="images/small/pict2283.jpg" onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img width="600" height="450" border="0" alt="Pict2283" title="Pict2283" src="images/orig/pict2283.jpg" style="margin: 0px 5px 5px 0px;" /></a>
+</p>
+
+
+
+
+<p>
+I used the usb power to run the MSA.&nbsp; The red is positive and the black is ground.</p>
+
+
+
+
+<p><a href="images/small/pict2287.jpg" onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img width="600" height="450" border="0" alt="Pict2287" title="Pict2287" src="images/orig/pict2287.jpg" style="margin: 0px 5px 5px 0px;" /></a>
+</p>
+
+
+
+
+<p>I dremeled the original Rock Band drum controller down and then epoxied into the project box.</p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mooninite]]></title>
+    <link href="http://planetpony.com/blog/2008/05/05/mooninite/"/>
+    <updated>2008-05-05T00:00:00-07:00</updated>
+    <id>http://planetpony.com/blog/2008/05/05/mooninite</id>
+    <content type="html"><![CDATA[<p>Recently I have become quite interested in electronics.&#0160; Beside my Rock Band hack I have been trying to figure out how to etch my own PCBs.&#0160; I am sorry to say it has not been going very well.&#0160; The process of transferring the design to the pcb has not been working.&#0160; I tried regular photo paper like so may people recommend and then tried <a href="http://www.pulsarprofx.com/PCB/a_Pages/3_Direct_Etch/3b_The_15min_PCB/The_15min_PCB.html">Pulsar</a> transfer paper.&#0160; The toner just floats away when I soak the paper off.&#0160; I managed to get enough of the design to stick as a template and then I used the old fashion tape method.&#0160; I had some traces that were not complete and solder wires across them.&#0160; There is still some issue somewhere I have to track down as only a few LEDs are lighting.&#0160; This project has just not been going well for some reason.</p>
+
+
+<p>The Mooninite plans came from <a href="http://forums.linear1.org/index.php/topic,1307.0.html">here.</a></p>
+
+
+<p><br />
+<a href="images/small/mooninite_back.jpg" onclick="window.open(this.href, &#39;_blank&#39;, &#39;width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false"></a>
+<a href="images/small/mooninite_front_2.jpg" onclick="window.open(this.href, &#39;_blank&#39;, &#39;width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false">
+<img alt="Mooninite_front_2" border="0" height="450" src="images/orig/mooninite_front_2.jpg" style="margin: 0px 5px 5px 0px; float: left;" title="Mooninite_front_2" width="600" /></a> 
+<a href="images/small/mooninite_back_2.jpg" onclick="window.open(this.href, &#39;_blank&#39;, &#39;width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false">
+<img alt="Mooninite_back_2" border="0" height="450" src="images/orig/mooninite_back_2.jpg" style="margin: 0px 5px 5px 0px; float: left;" title="Mooninite_back_2" width="600" /></a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rock Band Bass Pedal Hacked]]></title>
+    <link href="http://planetpony.com/blog/2008/02/05/rock-band-bass-pedal-hacked/"/>
+    <updated>2008-02-05T00:00:00-07:00</updated>
+    <id>http://planetpony.com/blog/2008/02/05/rock-band-bass-pedal-hacked</id>
+    <content type="html"><![CDATA[<p>The bass pedal that comes with Rock Band is not the nicest piece of hardware.&nbsp; This weekend I finished a mod I found on <a href="http://rockband.scorehero.com/forum/viewforum.php?f=1038&amp;sid=635a98f3a42f22be54ac8fe68807cffe">rockband.scorehero.com</a> to replace the pedal with a real bass drum pedal.&nbsp; I used&nbsp; a reed relay and magnets from Radio Shack to get the Pearl pedal connected.&nbsp; What an amazing difference!&nbsp; No more leg fatigue and much faster response.&nbsp; I urge anyone who really enjoys drumming on Rock Band to make the change.</p>
+
+
+
+
+<p>I am still in the process of building a switch that will allow me to use both the new pedal and the original at the same time.&nbsp; The schematic <a href="http://rockband.scorehero.com/forum/viewtopic.php?t=3428&amp;postdays=0&amp;postorder=asc&amp;start=15">here</a> is what I am using.&nbsp; I just need to get it off the breadboard and permanently soldered.</p>
+
+
+
+
+<p><a onclick="window.open(this.href, '_blank', 'width=800,height=1066,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/p2051660.jpg"><img width="100" height="133" border="0" title="P2051660" alt="P2051660" src="images/orig/p2051660.jpg" style="margin: 0px 5px 5px 0px; float: left;" /></a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Pens]]></title>
+    <link href="http://planetpony.com/blog/2008/01/15/new-pens/"/>
+    <updated>2008-01-15T00:00:00-07:00</updated>
+    <id>http://planetpony.com/blog/2008/01/15/new-pens</id>
+    <content type="html"><![CDATA[<p>Here are photos of my latest pens.&nbsp; </p>
+
+
+
+
+<p>This is Buckeye Burl.&nbsp; A stabilized pen blank.&nbsp; I was afraid it would be difficult to work with but it really did not seem any different then regular wood.&nbsp; Of course with all the worm holes it had a greater chance of breaking.&nbsp; I am pretty happy with how it turned out.</p>
+
+
+
+
+<p><a onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/buckeyeburlligero.jpg"><img width="100" height="75" border="0" title="Buckeyeburlligero" alt="Buckeyeburlligero" src="images/orig/buckeyeburlligero.jpg" style="margin: 0px 5px 5px 0px; float: left;" /></a>
+</p>
+
+
+<p><br /><br /><br /><br /><br /><p>This is Olivewood.&nbsp; The blank came with a little certificate stating it was from the &quot;Holy land&quot; and they take special care when trimming the trees to promote growth and maintain health.&nbsp; I had never seen Olivewood before and was pleasantly surprised to see the beautiful grain.&nbsp; I also really like this particular pen kit.&nbsp; It is platinum plated and rollerball writes nicely.&nbsp; It will also take the Monteblanc refills if they are trimmed a bit.</p></p>
+
+<p><a onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/olivewoodbaron.jpg"><img width="100" height="75" border="0" title="Olivewoodbaron" alt="Olivewoodbaron" src="images/orig/olivewoodbaron.jpg" style="margin: 0px 5px 5px 0px; float: left;" /></a>
+</p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pject]]></title>
+    <link href="http://planetpony.com/blog/2008/01/14/pject/"/>
+    <updated>2008-01-14T00:00:00-07:00</updated>
+    <id>http://planetpony.com/blog/2008/01/14/pject</id>
+    <content type="html"><![CDATA[<p>I got my development project moved to cvsdude and have Trac setup now.&nbsp; The development is going pretty slowly but I am really glad I switch over to using the <a href="http://www.symfony-project.org/">Symfony</a> framework.&nbsp; It has help speed up development a LOT!&nbsp; Last week I got sfGuard installed and working.&nbsp; Now if I could just get my speed at coding up.&nbsp; One hurdle is going to be getting my data to print out in a pivot table layout.&nbsp; I have not really gotten any ideas on how to tackle that yet.</p>
+
+
+
+
+<p>If you are bored and have nothing better to do feel free to check out the little I have done.&nbsp; </p>
+
+
+
+
+<p><a href="https://pject-trac.cvsdude.com/pject/wiki">Pject</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Star Networks Is Now TelEvolve]]></title>
+    <link href="http://planetpony.com/blog/2007/12/20/star-networks-is-now-televolve/"/>
+    <updated>2007-12-20T00:00:00-07:00</updated>
+    <id>http://planetpony.com/blog/2007/12/20/star-networks-is-now-televolve</id>
+    <content type="html"><![CDATA[<p>It is very exciting!&nbsp; We finally made the change to TelEvolve.&nbsp; The notice went out earlier this week.&nbsp; You can see it here:</p>
+
+
+
+
+<p><a href="images/name_announcement.pdf">Name_announcement.pdf</a>
+
+</p>
+
+
+
+
+<p>We should have our new business card soon.&nbsp; With the new logo.&nbsp; Now we just need to make the <a href="http://www.televolve.com">website</a> more useful.&nbsp; </p>
+
+
+
+
+<p><a href="images/small/logo625withtag.png" onclick="window.open(this.href, '_blank', 'width=625,height=282,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img width="100" height="45" border="0" alt="Logo625withtag" title="Logo625withtag" src="images/orig/logo625withtag.png" style="margin: 0px 5px 5px 0px; float: left;" /></a>
+</p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ten Days With the iPhone — a Comparison With Pocket PCs and Other PDAs]]></title>
+    <link href="http://planetpony.com/blog/2007/11/23/ten-days-with-the-iphone-a-comparison-with-pocket-pcs-and-other-pdas/"/>
+    <updated>2007-11-23T00:00:00-07:00</updated>
+    <id>http://planetpony.com/blog/2007/11/23/ten-days-with-the-iphone-a-comparison-with-pocket-pcs-and-other-pdas</id>
+    <content type="html"><![CDATA[<p>A long and detailed comparison of the iPhone against other PDA phones,
+written by an experienced Pocket PC user and system admin. The iPhone
+isn’t for everyone, and there is a lot of misinformation being printed
+about it. This review tries to cover the details accurately and set the
+record straight.</p>
+
+
+
+
+<p><a href="http://pdaphonehome.com/forums/apple-iphone-i-phone/89932-ten-days-iphone-comparison-review-part-1-2-a.html">Read More</a> | <a href="http://digg.com/apple/Ten_days_with_the_iPhone_A_comparison_with_Pocket_PCs_and_other_PDAs">Digg Story</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Micahville’s Great Blog List]]></title>
+    <link href="http://planetpony.com/blog/2007/11/23/micahville-s-great-blog-list/"/>
+    <updated>2007-11-23T00:00:00-07:00</updated>
+    <id>http://planetpony.com/blog/2007/11/23/micahville-s-great-blog-list</id>
+    <content type="html"><![CDATA[<p>Micahville has a great list of blogs that was dugg quite a bit
+recently.&nbsp; I found it to be helpful as I have read a lot of these blogs
+at times but had never bookmarked any of them.&nbsp; This was a great way
+for me to finally bookmark them and to learn about a bunch more.</p>
+
+
+
+
+<p><a href="http://www.micahville.com/2007/07/08/69-tech-blogs-that-dont-suck/">Read More</a> | <a href="http://digg.com/tech_news/69_Tech_Blogs_That_Don_t_Suck">Digg Story</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

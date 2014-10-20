@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: General | Moriah's Web]]></title>
+  <link href="http://planetpony.com/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://planetpony.com/"/>
+  <updated>2014-10-19T18:59:35-07:00</updated>
+  <id>http://planetpony.com/</id>
+  <author>
+    <name><![CDATA[Moriah Trostler]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Finally Moved From Typepad to Github Pages]]></title>
+    <link href="http://planetpony.com/blog/2014/10/17/finally-moved-from-typepad-to-github-pages/"/>
+    <updated>2014-10-17T16:26:21-07:00</updated>
+    <id>http://planetpony.com/blog/2014/10/17/finally-moved-from-typepad-to-github-pages</id>
+    <content type="html"><![CDATA[<p>I have made multiple attempts in the past couple of years to migrate my blog off of Typepad to something free since I hardly ever update it and rarely get much more then one hit a day.  The complication with migrating is that Typepad doesn&rsquo;t make it very easy to backup your data in a format easily transferral to anything else.  The biggest problem being the images/media.  They allow you to export all the text but there is no way to grab the media without having to go to each post and manually download each individual item.  Every time I tried moving my blog I would fight and fight to get my images moved and the links updated but it always ended up taking too much time and I would inevitably have to stop working on it to do real work.  Well, I finally got it about finished and am just working out the bugs now.  Since I really love using Git and GitHub maybe I will be inspired to post more than once or twice every few years. :-)</p>
+]]></content>
+  </entry>
+  
+</feed>
