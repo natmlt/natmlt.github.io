@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Games | Moriah's Web]]></title>
   <link href="http://planetpony.com/blog/categories/games/atom.xml" rel="self"/>
   <link href="http://planetpony.com/"/>
-  <updated>2014-10-21T10:58:29-07:00</updated>
+  <updated>2014-10-21T11:23:47-07:00</updated>
   <id>http://planetpony.com/</id>
   <author>
     <name><![CDATA[Moriah Trostler]]></name>
@@ -18,32 +18,15 @@
     <link href="http://planetpony.com/blog/2008/10/03/rock-band-mod-update/"/>
     <updated>2008-10-03T00:00:00-07:00</updated>
     <id>http://planetpony.com/blog/2008/10/03/rock-band-mod-update</id>
-    <content type="html"><![CDATA[<p>10-3-08</p>
+    <content type="html"><![CDATA[<h2>10-3-08</h2>
 
+<p>Just a quick update. I recently changed up my drum set a bit. I got myself a used Roland PD-120 to be my snare and a PD-80 for the high hat. I though the mesh pads would be even quieter and enhance my Rock Band experience. They really are not much quieter but the sound is different then the rubber thud. They actually kind of sound like a real drum that is just very muted. Another reason for getting the PD-120 was because it is bigger and I can use a snare stand with it. Since adding the double bass pedal my left knee would hit on the bar the Yamaha had for holding the snare. Now with snare on the stand that problem is gone.</p>
 
-<p>Just a quick update.&nbsp; I recently changed up my drum set a bit.&nbsp; I got myself a used Roland PD-120 to be my snare and a PD-80 for the high hat.&nbsp; I though the mesh pads would be even quieter and enhance my Rock Band experience.&nbsp; They really are not much quieter but the sound is different then the rubber thud.&nbsp; They actually kind of sound like a real drum that is just very muted.&nbsp; Another reason for getting the PD-120 was because it is bigger and I can use a snare stand with it.&nbsp; Since adding the double bass pedal my left knee would hit on the bar the Yamaha had for holding the snare.&nbsp; Now with snare on the stand that problem is gone.</p>
+<p>I tried to make a video since that seems to be thing to do. It turned out pretty boring but if you are interested be my guest:</p>
 
+<p><video width='' height='' preload='none' controls poster=''><source src='http://www.youtube.com/v/I7sru_YQpeg&amp;amp;hl=en&amp;amp;fs=1">http://www.youtube.com/v/I7sru_YQpeg&amp;amp;hl=en&amp;amp;fs=1</a>&#8217; ></video></p>
 
-
-
-<p>I tried to make a video since that seems to be thing to do.&nbsp; It turned out pretty boring but if you are interested be my guest:</p>
-
-
-
-
-<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/I7sru_YQpeg&amp;hl=en&amp;fs=1" /><param name="allowFullScreen" value="true" /><embed width="425" height="344" src="http://www.youtube.com/v/I7sru_YQpeg&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object>
-
-</p>
-
-
-
-
-<p>
-
-One neat thing I discovered was using practice mode to play the full song but play the sound of the drums out the actual drum brain.&nbsp; It really surprised me how forgiving Rock Band is with your timing.&nbsp; Once you actually listen to yourself playing you can hear how off you can be and still have Rock Band trigger a hit.&nbsp; I really recommend if you have speakers hooked up to your drum brain trying practice mode.&nbsp; It is a cool way to get drumless tracks to play along with and improve your drum skills.</p>
-
-
-
+<p>One neat thing I discovered was using practice mode to play the full song but play the sound of the drums out the actual drum brain. It really surprised me how forgiving Rock Band is with your timing. Once you actually listen to yourself playing you can hear how off you can be and still have Rock Band trigger a hit. I really recommend if you have speakers hooked up to your drum brain trying practice mode. It is a cool way to get drumless tracks to play along with and improve your drum skills.</p>
 ]]></content>
   </entry>
   
@@ -68,8 +51,7 @@ to hack!</p>
 
 <p></p>
 
-<p><a href="/images/orig/rb_yahama_2"><img src="/images/small/rb_yahama_2.jpg" width="600" height="450" title="Rb_yahama_2" ></a>
-</p>
+<p><a href="/images/orig/rb_yahama_2.jpg"><img src="/images/small/rb_yahama_2.jpg" width="600" height="450" title="Rb_yahama_2" ></a></p>
 
 <p><a href="/images/orig/rb_blackbox.jpg"><img src="/images/small/rb_blackbox.jpg" width="600" height="450" title="Rb_blackbox" ></a></p>
 
@@ -90,7 +72,7 @@ to hack!</p>
 
 <p>I used the usb power to run the MSA.  The red is positive and the black is ground.</p>
 
-<p><a href="/images/orig/pict2288.jpg"><img src="/images/small/pict2288.jpg" width="600" height="450" title="Pict2288" ></a></p>
+<p><a href="/images/orig/pict2287.jpg"><img src="/images/small/pict2287.jpg" width="600" height="450" title="Pict2287" ></a></p>
 
 <p>I dremeled the original Rock Band drum controller down and then epoxied into the project box.</p>
 ]]></content>
@@ -101,20 +83,11 @@ to hack!</p>
     <link href="http://planetpony.com/blog/2008/02/05/rock-band-bass-pedal-hacked/"/>
     <updated>2008-02-05T00:00:00-07:00</updated>
     <id>http://planetpony.com/blog/2008/02/05/rock-band-bass-pedal-hacked</id>
-    <content type="html"><![CDATA[<p>The bass pedal that comes with Rock Band is not the nicest piece of hardware.&nbsp; This weekend I finished a mod I found on <a href="http://rockband.scorehero.com/forum/viewforum.php?f=1038&amp;sid=635a98f3a42f22be54ac8fe68807cffe">rockband.scorehero.com</a> to replace the pedal with a real bass drum pedal.&nbsp; I used&nbsp; a reed relay and magnets from Radio Shack to get the Pearl pedal connected.&nbsp; What an amazing difference!&nbsp; No more leg fatigue and much faster response.&nbsp; I urge anyone who really enjoys drumming on Rock Band to make the change.</p>
+    <content type="html"><![CDATA[<p>The bass pedal that comes with Rock Band is not the nicest piece of hardware. This weekend I finished a mod I found on <a href="http://rockband.scorehero.com/forum/viewforum.php?f=1038&amp;amp;sid=635a98f3a42f22be54ac8fe68807cffe">rockband.scorehero.com</a> to replace the pedal with a real bass drum pedal. I used a reed relay and magnets from Radio Shack to get the Pearl pedal connected. What an amazing difference! No more leg fatigue and much faster response. I urge anyone who really enjoys drumming on Rock Band to make the change.</p>
 
+<p>I am still in the process of building a switch that will allow me to use both the new pedal and the original at the same time. The schematic <a href="http://rockband.scorehero.com/forum/viewtopic.php?t=3428&amp;amp;postdays=0&amp;amp;postorder=asc&amp;amp;start=15">here</a> is what I am using. I just need to get it off the breadboard and permanently soldered.</p>
 
-
-
-<p>I am still in the process of building a switch that will allow me to use both the new pedal and the original at the same time.&nbsp; The schematic <a href="http://rockband.scorehero.com/forum/viewtopic.php?t=3428&amp;postdays=0&amp;postorder=asc&amp;start=15">here</a> is what I am using.&nbsp; I just need to get it off the breadboard and permanently soldered.</p>
-
-
-
-
-<p><a onclick="window.open(this.href, '_blank', 'width=800,height=1066,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/p2051660.jpg"><img width="100" height="133" border="0" title="P2051660" alt="P2051660" src="images/orig/p2051660.jpg" style="margin: 0px 5px 5px 0px; float: left;" /></a></p>
-
-
-
+<p><a href="/images/orig/p2051660.jpg"><img src="/images/small/p2051660.jpg" width="600" height="450" title="p2051660" ></a></p>
 ]]></content>
   </entry>
   
