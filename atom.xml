@@ -4,7 +4,7 @@
   <title><![CDATA[Moriah's Web]]></title>
   <link href="http://planetpony.com/atom.xml" rel="self"/>
   <link href="http://planetpony.com/"/>
-  <updated>2014-10-21T11:27:02-07:00</updated>
+  <updated>2014-10-21T11:28:42-07:00</updated>
   <id>http://planetpony.com/</id>
   <author>
     <name><![CDATA[Moriah Trostler]]></name>
@@ -33,7 +33,8 @@
 
 <p>I tried to make a video since that seems to be thing to do. It turned out pretty boring but if you are interested be my guest:</p>
 
-<p><video width='425' height='344' preload='none' controls poster=''><source src='http://www.youtube.com/v/I7sru_YQpeg&amp;hl=en&amp;fs=1' ></video></p>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/I7sru_YQpeg&amp;hl=en&amp;fs=1" /><param name="allowFullScreen" value="true" /><embed width="425" height="344" src="http://www.youtube.com/v/I7sru_YQpeg&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object>
+
 
 <p>One neat thing I discovered was using practice mode to play the full song but play the sound of the drums out the actual drum brain. It really surprised me how forgiving Rock Band is with your timing. Once you actually listen to yourself playing you can hear how off you can be and still have Rock Band trigger a hit. I really recommend if you have speakers hooked up to your drum brain trying practice mode. It is a cool way to get drumless tracks to play along with and improve your drum skills.</p>
 ]]></content>
