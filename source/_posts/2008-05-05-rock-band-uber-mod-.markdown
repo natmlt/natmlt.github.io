@@ -28,9 +28,9 @@ enclose the below line in braces and percent tags for images
  img [class names] /path/to/image [width] [height] [title text [alt text]]
 {% endcomment %}
 
-[{% img images/small/rb_yahama_2.jpg 600 450 Rb_yahama_2}](images/orig/rb_yahama_2)
+[{% img images/small/rb_yahama_2.jpg 600 450 Rb_yahama_2 %}](images/orig/rb_yahama_2)
 {% comment %}
-{% img /images/orig/rb_yahama.jpg 800 600 Rb_yahama_2}
+img /images/orig/rb_yahama.jpg 800 600 Rb_yahama_2
 {% endcomment %}
 
 
