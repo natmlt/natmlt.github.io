@@ -23,11 +23,25 @@ to hack!</p>
 
 
 <p>&nbsp;</p>
+{% comment %}
+enclose the below line in braces and percent tags for images
+ img [class names] /path/to/image [width] [height] [title text [alt text]]
+{% endcomment %}
 
-<p><a href="images/small/rb_yahama.jpg" onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"></a><a onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/rb_yahama_2.jpg"><img width="600" height="450" border="0" src="images/orig/rb_yahama_2.jpg" title="Rb_yahama_2" alt="Rb_yahama_2" style="margin: 0px 5px 5px 0px;" /></a>
-<a onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/rb_blackbox.jpg"><img border="0" src="images/orig/rb_blackbox.jpg" title="Rb_blackbox" alt="Rb_blackbox" style="margin: 0px 5px 5px 0px; width: 600px; height: 450px;" /></a> </p>
+[{% img images/small/rb_yahama_2.jpg 600 450 Rb_yahama_2}](images/orig/rb_yahama_2)
+{% comment %}
+{% img /images/orig/rb_yahama.jpg 800 600 Rb_yahama_2}
+{% endcomment %}
 
-<p><a href="images/small/rb_yahama.jpg" onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><br /></a>
+
+<a onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="images/small/rb_blackbox.jpg"><img border="0" src="images/orig/rb_blackbox.jpg" title="Rb_blackbox" alt="Rb_blackbox" style="margin: 0px 5px 5px 0px; width: 600px; height: 450px;" />
+</a> 
+</p>
+
+<p>
+<a href="images/small/rb_yahama.jpg" onclick="window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">
+<br />
+</a>
 </p>
 
 
