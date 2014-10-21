@@ -9,11 +9,11 @@ categories:
   - Web
   - Tech
 ---
-<p>A long and detailed comparison of the iPhone against other PDA phones,
+A long and detailed comparison of the iPhone against other PDA phones,
 written by an experienced Pocket PC user and system admin. The iPhone
 isn’t for everyone, and there is a lot of misinformation being printed
 about it. This review tries to cover the details accurately and set the
-record straight.</p>
+record straight.
 
-<p><a href="http://pdaphonehome.com/forums/apple-iphone-i-phone/89932-ten-days-iphone-comparison-review-part-1-2-a.html">Read More</a> | <a href="http://digg.com/apple/Ten_days_with_the_iPhone_A_comparison_with_Pocket_PCs_and_other_PDAs">Digg Story</a></p>
-
+[Read the post](http://pdaphonehome.com/forums/apple-iphone-i-phone/89932-ten-days-iphone-comparison-review-part-1-2-a.html)<br >
+[Original Digg Story](http://digg.com/apple/Ten_days_with_the_iPhone_A_comparison_with_Pocket_PCs_and_other_PDAs)

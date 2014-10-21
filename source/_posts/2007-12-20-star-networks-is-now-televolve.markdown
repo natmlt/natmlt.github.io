@@ -7,14 +7,12 @@ sharing: true
 footer: true
 categories: Business
 ---
-<p>It is very exciting!&nbsp; We finally made the change to TelEvolve.&nbsp; The notice went out earlier this week.&nbsp; You can see it here:</p>
+It is very exciting! We finally made the change to TelEvolve. The notice went out earlier this week. You can see it here: [Name Announcement](images/name_announcement.pdf)
 
-<p><a href="images/name_announcement.pdf">Name_announcement.pdf</a>
+We should have our new business card soon. With the new logo. Now we just need to make the [website](<http://www.televolve.com) more useful.
 
-</p>
+{% img /images/orig/logo625withtag.png 625 282 Logo %}
 
-<p>We should have our new business card soon.&nbsp; With the new logo.&nbsp; Now we just need to make the <a href="http://www.televolve.com">website</a> more useful.&nbsp; </p>
-
-<p><a href="images/small/logo625withtag.png" onclick="window.open(this.href, '_blank', 'width=625,height=282,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img width="100" height="45" border="0" alt="Logo625withtag" title="Logo625withtag" src="images/orig/logo625withtag.png" style="margin: 0px 5px 5px 0px; float: left;" /></a>
-</p>
-
+UPDATE 2013-07-01
+---------------------
+Lots of changes have happened since this was originally posted.  As of today the assets of TelEvolve have been offically sold off and we will no long be doing business under that name.  The last 6 years we had a good run and did very well, it was just time to move on.  We were approached out of the blue by three different companies at the end of 2012 with interests in acquiring us and we decided to take advantage of the situation.  It took a long time and a lot of effort to get all the paperwork completed but it is finally official.  Who knows what the future will bring but I'm ready to move on.
